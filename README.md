@@ -26,7 +26,7 @@ O resultado será exibido na tela do navegador.
 
 Projeto do curso "Aplicações Serverless na AWS - Erick Wendel"
 
-###Comandos importantes:
+### Comandos importantes:
 
 Instalação do framework serverless e do Jest:
 
