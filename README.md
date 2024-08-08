@@ -1,4 +1,4 @@
-#Analisador simples de imagens com AWS Rekognition
+# Analisador simples de imagens com AWS Rekognition
 
 Código para criação de uma função Lambda e demais recursos necessários na AWS, utilizando o framework Serveless `(https://www.serverless.com/)`.
 
